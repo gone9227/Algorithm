@@ -1,4 +1,4 @@
-package algorithm.list;
+package algorithm.leetCode;
 
 /**
  * https://leetcode.com/problems/add-two-numbers/
